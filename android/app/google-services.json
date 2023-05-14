@@ -1,0 +1,111 @@
+{
+  "project_info": {
+    "project_number": "702064832074",
+    "firebase_url": "https://weightloser-2de95-default-rtdb.firebaseio.com",
+    "project_id": "weightloser-2de95",
+    "storage_bucket": "weightloser-2de95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702064832074:android:ae0fd8b47a216c3c3380b3",
+        "android_client_info": {
+          "package_name": "com.weightloser.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702064832074-4uu2r83qiug46ksumg2go29lbt3mig32.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.weightloser.app",
+            "certificate_hash": "9a6a10aab1c8ff3d68eff9ed1b21c3076cb87db8"
+          }
+        },
+        {
+          "client_id": "702064832074-ce5gm7oiiam2oe8qf1icp45bbdk0njm6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.weightloser.app",
+            "certificate_hash": "32685da249f41f412c55b0adef06eb0c27deafa4"
+          }
+        },
+        {
+          "client_id": "702064832074-j52ph243ok5rbmgk5i6hoifpssvi5qh5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.weightloser.app",
+            "certificate_hash": "efff67078d7f419687e2cb370951d41a716a539b"
+          }
+        },
+        {
+          "client_id": "702064832074-jtcdtgdrsubq3dpm0sl8ae3sj36i7o04.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.weightloser.app",
+            "certificate_hash": "d0607d492c63f19ab383ca90e4a27a697dd0be7d"
+          }
+        },
+        {
+          "client_id": "702064832074-n9bmdatne9frjp5o8phhlbc1mgdpk41o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.weightloser.app",
+            "certificate_hash": "14b54c358f357d3645680402b9aa0e2e0f68ba0e"
+          }
+        },
+        {
+          "client_id": "702064832074-qtob0cp1ah2al5fpsk3u5irrp6apngkl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.weightloser.app",
+            "certificate_hash": "97f54b56016f44dc00664baa655e1d55b7a3ed68"
+          }
+        },
+        {
+          "client_id": "702064832074-sqriuks0ueh05c2fn1v88jo2os8i8348.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.weightloser.app",
+            "certificate_hash": "b9b19725ed394b303e08d3f60d44935d302eb8f5"
+          }
+        },
+        {
+          "client_id": "702064832074-t7qjejtjbpscehvof8rj2jgdslip05j1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.weightloser.app",
+            "certificate_hash": "deda8e1029e5eb2e7437d712a938c7b108845356"
+          }
+        },
+        {
+          "client_id": "702064832074-6cb4teaga4u6gss7uqsbbqq789hi2o9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9AZVB5yZ7WfnCc1ufzhqHgrna_7lr3vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702064832074-6cb4teaga4u6gss7uqsbbqq789hi2o9d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "702064832074-q68fbvtlk657nv6ci2d4qbsdgl81a61c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.weightloser.weightchoper"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
